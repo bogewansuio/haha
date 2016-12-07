@@ -1,3 +1,3 @@
 ﻿function a(){
-  asdf
+  var  a = 4;
 }
