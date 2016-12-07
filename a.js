@@ -6,5 +6,5 @@ function b(){
   alcert(2)
 }
 function a(){
-  alert（）
+  alert（444444444444444）
 }
